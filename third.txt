@@ -1,2 +1,8 @@
 This is a third file.
+<<<<<<< HEAD
 This is a third file updated from local machine.
+=======
+
+
+this is a third file updated from github.
+>>>>>>> 9fd34e4c85c8070fe21e185a1be0f676daa04e68
